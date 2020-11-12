@@ -1,7 +1,9 @@
 # Flutter Starter App
 
 This is the first go that I had using flutter - following the official 2 part tutorial from Google. 
+
 Part 1: [here](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
+
 Part 2: [here](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0)
 
 ## Getting Started
